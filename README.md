@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Gloria Linda 👋
 
-<!--
-**glorialindarn/glorialindarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Statistics & Big Data Analytics | Data Storyteller
 
-Here are some ideas to get you started:
+Turning raw data and complex patterns into structured, actionable insights. Combining rigorous statistical modeling with clear, impactful data storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Programming & Statistical Analysis:**
+- `R` • `Python` • `SQL` • `Time Series & Econometric Modeling`
+
+**Data Visualization & BI:**
+- `Tableau` • `Power BI` • `Microsoft Excel` • `ggplot2` / `Seaborn`
+
+**Tools & Workflow:**
+- `Git` • `GitHub` • `RStudio` • `Jupyter Notebook`
+
+---
+
+### 📌 Areas of Focus
+- 📈 **Statistical Modeling:** Time series analysis, forecasting, and econometric estimations.
+- 🔍 **Exploratory Data Analysis (EDA):** Data cleaning, pattern detection, and feature profiling.
+- 📊 **Visual Storytelling:** Designing intuitive dashboards and reports to communicate complex findings effectively.
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/glorialinda](https://linkedin.com)
+- **Email:** glorialindarn@gmail.com
