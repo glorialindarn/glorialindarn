@@ -29,21 +29,5 @@ Final-year **Statistics (Big Data Analytics)** student actively seeking an **Int
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Linda's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false" alt="Linda's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Get in Touch
 - ✉️ **Email:** [glorialinda.rn@gmail.com](mailto:glorialinda.rn@gmail.com)
