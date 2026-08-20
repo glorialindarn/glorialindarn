@@ -40,28 +40,32 @@ Final-year **Bachelor of Science (Honours) Statistics specializing in Big Data A
   - Estimated an **ARDL(1, 2, 0) Bounds Test**, confirming a significant long-run cointegration ($F = 6.0507 > I(1)$ Bound 5.8261).
   - Formulated an **Error Correction Model (ECM)** showing a statistically significant speed of adjustment ($ECT_{t-1} = -0.2288$, correcting ~22.88% of disequilibrium annually).
 - **Validation & Dynamic Projections:** Implemented **recursive dynamic forecasting** with out-of-sample holdout validation (2019–2023), achieving a **MAPE of 0.42%**, **RMSE of 0.3094**, and **60.0% Directional Accuracy**. Projected FLFPR expansion to **62.85% by 2030**, surpassing the 60.0% national target by 2027.
-- **Deliverables:** Full Academic Report • R Scripts (`ARDL`, model diagnostics, CUSUM/CUSUMSQ, Auto-ARIMA)
 - **Tech Stack:** `R (RStudio)` `ARDL-ECM` `Time Series Econometrics` `Auto-ARIMA` `Forecasting`
 
 ---
 
-#### ☕ [Tea vs Coffee: Preferences & Lifestyle Trends (Power BI Dashboard)](LINK_REPO_OR_DRIVE_TEA_COFFEE)
-- **Overview:** Executed the **OSEMN Data Science Lifecycle** on a 34-attribute global beverage dataset (15,000 records) to analyze how demographic, sensory, and lifestyle factors drive beverage consumption.
+#### ☕ [Tea vs Coffee: Preferences & Lifestyle Trends (Power BI Dashboard)](https://drive.google.com/file/d/1Q5l8jqxmykTD3INlzwykSz4uNI2W4K7B/view?usp=sharing)
+- **Overview:** Executed the **OSEMN Data Science Lifecycle** on a 34-attribute global beverage dataset (15,000 records) to analyze how demographic, sensory, and lifestyle factors drive beverage consumption[cite: 6].
 - **Interactive Multi-Audience Dashboards:** Designed 3 persona-specific dashboard views in **Power BI** tailored for:
   - *Society:* Demographic distributions, physical activity, sleep patterns, and stress-level dynamics.
   - *Entrepreneurs:* Consumer market segmentation, café habits, work-type distributions, and monthly spending insights.
   - *Suppliers:* Sensory analysis (taste, aroma, bitterness, acidity) and drink customization trends (sugar/milk usage).
 - **Data Transformation:** Engineered 7 categorical derivative attributes to optimize EDA and visual representation.
-- **Deliverables:** `.pbix` File • Cleaned Dataset • Full Technical Report & Dashboard Previews
 - **Tech Stack:** `Power BI` `Data Storytelling / Dashboard UX` `Data Wrangling / EDA` `MS Excel`
+
+<!-- Dashboard Screenshots Preview -->
+<p align="center">
+  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQC7GiXp673_RZSP8IonxQurAWMtiDly-1yKDy_WiRz9Yc8?e=h413iy" alt="Society Dashboard Preview" width="32%" />
+  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQBsz_gfykpVTp4tPzeeGoU9AaPjOLzvaSdF2P2jZdvOY2A?e=wIHcKz" alt="Entrepreneur Dashboard Preview" width="32%" />
+  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQD1LcnplSEiQYuRPDiEMQe0AchgnZ1PwEtBss28fwmADJc?e=C6heyz" alt="Supplier Dashboard Preview" width="32%" />
+</p>
 
 ---
 
-#### 🏨 [Customer Sentiment Analysis & NLP — Pavilion Hotel KL (TripAdvisor)](LINK_REPO_OR_DRIVE_HOTEL)
+#### 🏨 [Customer Sentiment Analysis & NLP — Pavilion Hotel KL (TripAdvisor)](https://drive.google.com/drive/folders/1Z46UWtgXhDkK1s_F7slIlqUqHX_aX_Qq?usp=sharing)
 - **Overview:** Extracted and preprocessed ~1,200 authentic guest reviews from TripAdvisor to uncover key customer sentiment drivers and analyze traveler segmentation.
 - **NLP & Preprocessing:** Executed tokenization, case transformation, stopword removal, and token filtering using RapidMiner.
 - **Machine Learning & Modeling:** Benchmarked multiple predictive algorithms (Decision Tree, Naive Bayes, SVM). The **Support Vector Machine (SVM)** achieved top performance with **98.33% Accuracy**, **98.33% Precision**, and **100% Recall**.
-- **Deliverables:** [Presentation Video (YouTube)](LINK_YOUTUBE) • [Cleaned Dataset & RapidMiner Processes](LINK_DRIVE_HOTEL)
 - **Tech Stack:** `RapidMiner (AI Studio)` `Web Scraper` `NLP / Text Analytics` `MS Excel`
 
 ---
