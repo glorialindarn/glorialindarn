@@ -33,7 +33,7 @@ Final-year **Bachelor of Science (Honours) Statistics specializing in Big Data A
 
 ### 📌 Featured Projects
 
-#### 📈 [GDP per Capita and Fertility Rate as Determinants and Forecasting of Female Labour Force Participation in Malaysia: An ARDL-ECM Approach](https://drive.google.com/drive/folders/1OqpZnXCrLpPVruBVJTAe6WZcKpRRNSYC?usp=sharing)
+#### 📈 [GDP per Capita and Fertility Rate as Determinants and Forecasting of Female Labour Force Participation in Malaysia: An ARDL-ECM Approach (Final Year Project)](https://drive.google.com/drive/folders/1OqpZnXCrLpPVruBVJTAe6WZcKpRRNSYC?usp=sharing)
 - **Overview:** Conducted an empirical time series investigation on 42 years of annual macroeconomic data (DOSM, 1982–2023) to assess the short-run dynamics and long-run equilibrium between Real GDP per capita, Total Fertility Rate (TFR), and FLFPR.
 - **Econometric Methodology:** 
   - Verified series stationarity via **Augmented Dickey-Fuller (ADF)** tests ($I(1)$ series).
