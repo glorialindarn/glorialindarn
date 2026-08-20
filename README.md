@@ -53,13 +53,6 @@ Final-year **Bachelor of Science (Honours) Statistics specializing in Big Data A
 - **Data Transformation:** Engineered 7 categorical derivative attributes to optimize EDA and visual representation.
 - **Tech Stack:** `Power BI` `Data Storytelling / Dashboard UX` `Data Wrangling / EDA` `MS Excel`
 
-<!-- Dashboard Screenshots Preview -->
-<p align="center">
-  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQC7GiXp673_RZSP8IonxQurAWMtiDly-1yKDy_WiRz9Yc8?e=h413iy" alt="Society Dashboard Preview" width="32%" />
-  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQBsz_gfykpVTp4tPzeeGoU9AaPjOLzvaSdF2P2jZdvOY2A?e=wIHcKz" alt="Entrepreneur Dashboard Preview" width="32%" />
-  <img src="https://1drv.ms/i/c/dac95ddd6f094c3b/IQD1LcnplSEiQYuRPDiEMQe0AchgnZ1PwEtBss28fwmADJc?e=C6heyz" alt="Supplier Dashboard Preview" width="32%" />
-</p>
-
 ---
 
 #### 🏨 [Customer Sentiment Analysis & NLP — Pavilion Hotel KL (TripAdvisor)](https://drive.google.com/drive/folders/1Z46UWtgXhDkK1s_F7slIlqUqHX_aX_Qq?usp=sharing)
