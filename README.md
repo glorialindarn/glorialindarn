@@ -33,7 +33,7 @@ Final-year **Bachelor of Science (Honours) Statistics specializing in Big Data A
 
 ### 📌 Featured Projects
 
-#### 📈 [Econometric Modeling & Forecasting of Female Labour Force Participation in Malaysia (1982–2030)](LINK_REPO_OR_DRIVE_FYP)
+#### 📈 [GDP per Capita and Fertility Rate as Determinants and Forecasting of Female Labour Force Participation in Malaysia: An ARDL-ECM Approach](https://drive.google.com/drive/folders/1OqpZnXCrLpPVruBVJTAe6WZcKpRRNSYC?usp=sharing)
 - **Overview:** Conducted an empirical time series investigation on 42 years of annual macroeconomic data (DOSM, 1982–2023) to assess the short-run dynamics and long-run equilibrium between Real GDP per capita, Total Fertility Rate (TFR), and FLFPR.
 - **Econometric Methodology:** 
   - Verified series stationarity via **Augmented Dickey-Fuller (ADF)** tests ($I(1)$ series).
@@ -63,8 +63,6 @@ Final-year **Bachelor of Science (Honours) Statistics specializing in Big Data A
 - **Machine Learning & Modeling:** Benchmarked multiple predictive algorithms (Decision Tree, Naive Bayes, SVM). The **Support Vector Machine (SVM)** achieved top performance with **98.33% Accuracy**, **98.33% Precision**, and **100% Recall**.
 - **Deliverables:** [Presentation Video (YouTube)](LINK_YOUTUBE) • [Cleaned Dataset & RapidMiner Processes](LINK_DRIVE_HOTEL)
 - **Tech Stack:** `RapidMiner (AI Studio)` `Web Scraper` `NLP / Text Analytics` `MS Excel`
-
----
 
 ---
 
